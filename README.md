@@ -1,5 +1,5 @@
 # CYBER SECURITY ATTACKS
-## About Dataset¶
+## About Dataset
 ### Consists of 25 varied metrics and 40,000 records
 
 Welcome to Incribo's synthetic cyber dataset! Crafted with precision, this dataset offers a realistic representation of travel history, making it an ideal playground for various analytical tasks.
